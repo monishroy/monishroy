@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Monish Roy</h2>
 <h4 align="left">I am Web Developer , I have 2 years of experience in web development and web application . I specialize in HTML/CSS/JS/PHP and I love using my skills to bring creative ideas to life.</br> I love coding and I'm always eager to learn more about new technologies and trends in the web development world. I'm a firm believer in clean, maintainable code and always strive to write code that is not only functional, but also easy to read and understand. Thanks for reading !</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monishroy&label=Profile%20views&color=0e75b6&style=flat" alt="monishroy" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,3 +21,4 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
 
 </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=monishroy&label=Profile%20views&color=0e75b6&style=flat" alt="monishroy" /> </p>
