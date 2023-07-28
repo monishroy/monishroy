@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5616AQEJwwbDBfPjKQ/profile-displaybackgroundimage-shrink_350_1400/0/1690546618290?e=1695859200&v=beta&t=SFNNTB5Q9HQ6PqeOzZmvOF5a6wL4tYUAs8vYX28XrAE" alt="banner"/>
+<img src="https://media.licdn.com/dms/image/D5616AQEJwwbDBfPjKQ/profile-displaybackgroundimage-shrink_350_1400/0/1690546618290?e=1695859200&v=beta&t=SFNNTB5Q9HQ6PqeOzZmvOF5a6wL4tYUAs8vYX28XrAE" alt="banner"/>
 <h2 align="center">Hi 👋, I'm Monish Roy</h2>
 <h4 align="left">I am Web Developer , I have 2 years of experience in web development and web application . I specialize in HTML/CSS/JS/PHP/mySQL/Laravel and I love using my skills to bring creative ideas to life.</br> I love coding and I'm always eager to learn more about new technologies and trends in the web development world. I'm a firm believer in clean, maintainable code and always strive to write code that is not only functional, but also easy to read and understand. Thanks for reading !</h4>
 
