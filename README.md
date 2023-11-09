@@ -1,6 +1,6 @@
 
 <h2 align="center">Hi 👋, I'm Monish Roy</h2>
-<p align="left">I am Web Developer , I have 2 years of experience in web development and web application . I specialize in HTML/CSS/JS/PHP/mySQL/Laravel and I love using my skills to bring creative ideas to life.</br> I love coding and I'm always eager to learn more about new technologies and trends in the web development world. I'm a firm believer in clean, maintainable code and always strive to write code that is not only functional, but also easy to read and understand. Thanks for reading !</p>
+<p align="left">I am Web Developer , I have 2 years of experience in web development and web application . I specialize in HTML, CSS, JS, Bootstrap, PHP, mySQL, Laravel and other Laravel Packages. I love using my skills to bring creative ideas to life.</br> I love coding and I'm always eager to learn more about new technologies and trends in the web development world. I'm a firm believer in clean, maintainable code and always strive to write code that is not only functional, but also easy to read and understand. Thanks for reading !</p>
 
 
 
