@@ -1,4 +1,4 @@
-<img src="[[relative/path/in/repository/to/image.svg]()](https://media.licdn.com/dms/image/D5616AQHJ2D3ZbTmbUw/profile-displaybackgroundimage-shrink_350_1400/0/1711041851363?e=1716422400&v=beta&t=XyOwHzFa8rAB0iN-OK45f4mFHXBh-p9URgqYYGYveDY)" width="128"/>
+<img src="https://media.licdn.com/dms/image/D5616AQHJ2D3ZbTmbUw/profile-displaybackgroundimage-shrink_350_1400/0/1711041851363?e=1716422400&v=beta&t=XyOwHzFa8rAB0iN-OK45f4mFHXBh-p9URgqYYGYveDY" width="128"/>
 <h2 align="center">Hi 👋, I'm Monish Roy</h2>
 <p align="left">I am Web Developer . I specialize in HTML, CSS, JS, Bootstrap, PHP, mySQL, Laravel and other Laravel Packages. I love using my skills to bring creative ideas to life.</br> I love coding and I'm always eager to learn more about new technologies and trends in the web development world. I'm a firm believer in clean, maintainable code and always strive to write code that is not only functional, but also easy to read and understand. Thanks for reading !</p>
 
