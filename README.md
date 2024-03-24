@@ -44,6 +44,6 @@ I'm a firm believer in clean, maintainable code and always strive to write code 
 
 <br/>
 <hr/>
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width=100% src="https://github-readme-streak-stats-salesp07.vercel.app/?user=monishroy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 <br/>
 
