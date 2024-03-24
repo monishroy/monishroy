@@ -39,11 +39,7 @@ I'm a firm believer in clean, maintainable code and always strive to write code 
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,mysql,vscode,php,github,git,laravel" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,mysql,vscode,php,github,git,laravel,livewire" />
 </div>
 
-<br/>
-<hr/>
-<img width=100% src="https://github-readme-streak-stats-salesp07.vercel.app/?user=monishroy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<br/>
 
