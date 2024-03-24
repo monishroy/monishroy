@@ -20,18 +20,18 @@ I'm a firm believer in clean, maintainable code and always strive to write code 
 <br/>
  
 <div align="center"> 
-  <a href="mailto:monishroy87@gmail.com">
+<a href="mailto:monishroy87@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-    <a href="mailto:monishroy87@gmail.com">
+</a>
+<a href="https://www.facebook.com/monishroy010">
     <img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/monishroy010" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/monishroy010" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://monishroy.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+</a>
+<a href="https://monishroy.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+</a>
 </div>
 
  <hr/>
@@ -39,7 +39,7 @@ I'm a firm believer in clean, maintainable code and always strive to write code 
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,mysql,vscode,php,github,git,laravel,livewire" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,mysql,vscode,php,github,git,laravel" />
 </div>
 
 
