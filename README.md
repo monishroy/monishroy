@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Monish+Roy!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Bangladesh</h3>
 
 <br/>
 
@@ -14,6 +14,9 @@ I'm a web developer focused on crafting clean & user‑friendly experiences, I a
 I love using my skills to bring creative ideas to life. I love coding and I'm always eager to learn more about new technologies and trends in the web development world.
 I'm a firm believer in clean, maintainable code and always strive to write code that is not only functional, but also easy to read and understand. Thanks for reading !
 </div>
+
+<br/>
+<br/>
  
 <div align="center"> 
   <a href="mailto:monishroy87@gmail.com">
@@ -41,7 +44,7 @@ I'm a firm believer in clean, maintainable code and always strive to write code 
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/monishroy' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
