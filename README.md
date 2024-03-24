@@ -38,6 +38,7 @@ I'm a firm believer in clean, maintainable code and always strive to write code 
  
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,mysql,vscode,php,github,git,laravel" />
 </div>
