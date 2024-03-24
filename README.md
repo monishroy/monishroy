@@ -24,7 +24,7 @@ I'm a firm believer in clean, maintainable code and always strive to write code 
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
     <a href="mailto:monishroy87@gmail.com">
-    <img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/monishroy010" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -44,7 +44,6 @@ I'm a firm believer in clean, maintainable code and always strive to write code 
 
 <br/>
 <hr/>
-
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 <br/>
 
-<br/>
